@@ -22,3 +22,36 @@ You don’t have to handle the flag characters
 You don’t have to handle field width
 You don’t have to handle precision
 You don’t have to handle the length modifiers
+2. With a face like mine, I do better in print
+Handle the following custom conversion specifiers:
+b: the unsigned int argument is converted to binary
+3. What one has not experienced, one will never understand in print
+Handle the following conversion specifiers:
+
+u
+o
+x
+X
+You don’t have to handle the flag characters
+You don’t have to handle field width
+You don’t have to handle precision
+You don’t have to handle the length modifiers
+4. Nothing in fine print is ever good news
+Use a local buffer of 1024 chars in order to call write as little as possible.
+5. My weakness is wearing too much leopard print
+6. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print
+7. The big print gives and the small print takes away
+8. Sarcasm is lost in print
+9. Print some money and give it to us for the rain forests
+Handle the field width for non-custom conversion specifiers.
+10. The negative is the equivalent of the composer's score, and the print the performance
+Handle the precision for non-custom conversion specifiers.
+11. It's depressing when you're still around and your albums are out of print
+Handle the 0 flag character for non-custom conversion specifiers.
+12. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection
+Handle the - flag character for non-custom conversion specifiers.
+13. Print is the sharpest and the strongest weapon of our party
+Handle the following custom conversion specifier
+14. The flood of print has turned reading into a process of gulping rather than savoring
+Handle the following custom conversion specifier
+15. *All the above options work well together.
